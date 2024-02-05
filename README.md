@@ -1,8 +1,5 @@
-# React + Vite
+силка-https://guileless-narwhal-c853b2.netlify.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ міні-інтернет магазин, який містить дві сторінки: головну та корзину. Головна сторінка представляє собою перелік товарів, де користувач може переглядати доступні товари. Кожен товар відображається зображенням, назвою та ціною. Користувач може додавати товари до корзини, яка відображається на головній сторінці.
+Корзина сторінка дозволяє користувачеві переглядати вибрані товари, їх загальну вартість. Кожен товар в корзині також може бути видалений, надаючи користувачеві можливість коригувати свої покупки. Загальна вартість товарів у корзині відображається, щоб користувач мав чітке уявлення про витрати.

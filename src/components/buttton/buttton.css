@@ -1,0 +1,23 @@
+.btn {
+  border-radius: 15px;
+  color: #ffffff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+.btn--primary {
+  background-color: #bc1414;
+}
+.btn--primary:hover {
+  background-color: #000000;
+}
+.btn--secondary {
+  background-color: #000000;
+}
+.btn--small {
+  font-size: 14px;
+}
+.btn--medium {
+  font-size: 18px;
+}
